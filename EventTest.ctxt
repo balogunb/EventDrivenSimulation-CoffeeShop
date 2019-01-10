@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EventTest
+comment0.text=\r\n\ The\ test\ class\ for\ the\ Event\ class.\r\n\r\n\ @author\ \ Basit\ Balogun\r\n\ @version\ 10/14/2018\r\n
+comment1.params=
+comment1.target=void\ testSetTime()
+comment2.params=
+comment2.target=void\ testSetType()
+comment3.params=
+comment3.target=void\ testCompareTo1()
+comment4.params=
+comment4.target=void\ testCompareTo2()
+comment5.params=
+comment5.target=void\ testCompareTo3()
+comment6.params=
+comment6.target=void\ testCompareTo4()
+numComments=7

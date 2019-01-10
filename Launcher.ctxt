@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Launcher
+comment0.text=\r\n\ This\ class\ lauches\ the\ CoffeeShop\ and\ its\ simulation\ and\ prints\ out\ all\ neccessary\ data\ \r\n\r\n\ @author\ Basit\ Balogun\r\n\ @version\ 10/7/2018\r\n
+comment1.params=
+comment1.target=Launcher()
+comment1.text=Constructor\ for\ objects\ of\ class\ Launcher
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=the\ main\ method
+comment3.params=
+comment3.target=void\ run()
+comment3.text=The\ run\ method
+numComments=4

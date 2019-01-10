@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Event
+comment0.text=\r\n\ This\ class\ creates\ an\ object\ of\ event\ which\ keeps\ track\ of\ who\ the\ customer\ is,\ event\ time\ and\ type\ of\ event\r\n\ Event\ type\ 1\ is\ an\ arrival\ while\ event\ type\ 2\ is\ a\ depature.\r\n\ @author\ Basit\ Balogun\r\n\ @version\ (10/9/2018)\r\n
+comment1.params=
+comment1.target=Event()
+comment1.text=Constructor\ for\ objects\ of\ class\ Event
+comment2.params=c\ type
+comment2.target=Event(Customer,\ int)
+comment3.params=t
+comment3.target=void\ setTime(int)
+comment3.text=Setter\ for\ time\ event\ occurs
+comment4.params=type
+comment4.target=void\ setType(int)
+comment4.text=Setter\ for\ event\ type
+comment5.params=e
+comment5.target=int\ compareTo(Event)
+comment5.text=comparator\ for\ events
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=Returns\ event\ details\ as\ a\ String
+numComments=7
